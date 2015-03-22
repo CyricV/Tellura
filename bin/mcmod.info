@@ -1,0 +1,14 @@
+[{
+    "modid": "cyricv_tut",
+    "name": "CyricV Tutorial",
+    "description": "CyricV is following a tutorial yay!",
+    "version": "0.0.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authors": ["CyricV"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [mod_MinecraftForge]
+}]
