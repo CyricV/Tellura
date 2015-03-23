@@ -1,0 +1,33 @@
+package com.github.cyricv.tellura;
+
+import com.sun.org.apache.xml.internal.security.encryption.Reference;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import com.github.cyricv.tellura.help.Reference;
+
+@Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION)
+public class Tellura {
+	public class SkyrimMC
+	{
+		@Mod.EventHandler
+		public void preInit(FMLPreInitializationEvent event)
+		{
+
+		}
+		
+		@Mod.EventHandler
+		public void Init(FMLInitializationEvent event)
+		{
+
+		}
+		
+		@Mod.EventHandler
+		public void postInit(FMLPostInitializationEvent event)
+		{
+			
+		}
+	}
+}

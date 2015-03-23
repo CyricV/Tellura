@@ -1,0 +1,8 @@
+package com.github.cyricv.tellura.init;
+
+public class ModItems {
+	public static void init()
+	{
+		public static Item amalgamShard = new TelluraItem().setUnlocalizedName("amalgamShard");
+	}
+}
